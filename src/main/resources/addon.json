@@ -1,0 +1,10 @@
+{
+	"uuid": "%uuid%",
+	"name": "TNTTimer",
+	"mainClass": "red1206.tnttimer.TNTTimer",
+	"description": "Shows TNT fuse above it.",
+	"version": 1,
+	"author": "Red1206",
+	"category": 1,
+	"icon": "https://media.forgecdn.net/avatars/thumbnails/266/636/64/64/637233173254699513.png"
+}
